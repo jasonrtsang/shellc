@@ -1,0 +1,960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"number"
+			],
+			[
+				"job",
+				"jobsprevious"
+			],
+			[
+				"prin",
+				"printjob"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"jobs",
+				"jobsprevious"
+			],
+			[
+				"re",
+				"retrievejob"
+			],
+			[
+				"ar",
+				"arguementsindex"
+			],
+			[
+				"mem",
+				"memset"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"exi",
+				"exit"
+			],
+			[
+				"myshell_p",
+				"myshell_piping_return"
+			],
+			[
+				"fd",
+				"fdC"
+			],
+			[
+				"sig",
+				"signalhandler_suspend"
+			],
+			[
+				"mys",
+				"myshell_setchild"
+			],
+			[
+				"jo",
+				"jobstatus"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"exit",
+				"EXIT_FAILURE"
+			],
+			[
+				"cure",
+				"currentremovejob"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"current",
+				"currentremovejob"
+			],
+			[
+				"to",
+				"toremove"
+			],
+			[
+				"remo",
+				"removejob"
+			],
+			[
+				"jobre",
+				"jobremovelist"
+			],
+			[
+				"jobrev",
+				"jobremove"
+			],
+			[
+				"are",
+				"arguementsindex"
+			],
+			[
+				"back",
+				"backgroundprocess"
+			],
+			[
+				"bac",
+				"backgroundprocess"
+			],
+			[
+				"inp",
+				"inputchar"
+			],
+			[
+				"my",
+				"myjobs"
+			],
+			[
+				"myshe",
+				"myshell_foreground"
+			],
+			[
+				"mysh",
+				"myshell_foreground"
+			],
+			[
+				"new",
+				"newjob"
+			],
+			[
+				"myjobs_Re",
+				"myjobs_retrieve"
+			],
+			[
+				"sea",
+				"SEARCH_PID"
+			],
+			[
+				"myshell_",
+				"myshell_background"
+			],
+			[
+				"sign",
+				"signalhandler_child"
+			],
+			[
+				"myjobs",
+				"myjobs_remove"
+			],
+			[
+				"number",
+				"numberOfJobs"
+			],
+			[
+				"chil",
+				"childJob"
+			],
+			[
+				"myS",
+				"myShellRemoveJob"
+			],
+			[
+				"next",
+				"next"
+			],
+			[
+				"cur",
+				"currentJob"
+			],
+			[
+				"proce",
+				"processJob"
+			],
+			[
+				"aur",
+				"arguements"
+			],
+			[
+				"myShellPr",
+				"myShellPrintJobs"
+			],
+			[
+				"bak",
+				"backgroundProcess"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"pr",
+				"printJobs"
+			],
+			[
+				"st",
+				"struct\tstruct"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"in",
+				"insertJob"
+			],
+			[
+				"EX",
+				"EXIT_SUCCESS"
+			],
+			[
+				"argue",
+				"arguements"
+			],
+			[
+				"pu",
+				"pipingBuffer"
+			],
+			[
+				"pip",
+				"pipingBuffer"
+			],
+			[
+				"pipi",
+				"pipingIteration"
+			],
+			[
+				"iter",
+				"iteration"
+			],
+			[
+				"buf",
+				"bufferIndex"
+			],
+			[
+				"pipin",
+				"pipingBuffer"
+			],
+			[
+				"nuMER",
+				"numberOfCommands"
+			],
+			[
+				"F",
+				"EXIT_FAILURE"
+			],
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"COM",
+				"COMMAND_PIPING"
+			],
+			[
+				"COMMAN",
+				"COMMAND_PIPPING"
+			],
+			[
+				"arguements",
+				"arguements"
+			],
+			[
+				"Ar",
+				"arguements"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"E",
+				"EXIT_SUCCESS"
+			],
+			[
+				"ch",
+				"chdir"
+			],
+			[
+				"exe",
+				"executeArguements"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"ex",
+				"exitSignal"
+			],
+			[
+				"bu",
+				"bufferIndex"
+			],
+			[
+				"BU",
+				"BUFFERSIZE_WORD"
+			],
+			[
+				"par",
+				"parsedTokens"
+			],
+			[
+				"parse",
+				"parseToken"
+			],
+			[
+				"pa",
+				"parseToken"
+			],
+			[
+				"read",
+				"readBuffer"
+			],
+			[
+				"rea",
+				"readBuffer"
+			],
+			[
+				"buff",
+				"bufferSize"
+			],
+			[
+				"inpu",
+				"inputReturn"
+			],
+			[
+				"Bu",
+				"bufferSize"
+			],
+			[
+				"is",
+				"isspace"
+			],
+			[
+				"po",
+				"proc_parse"
+			],
+			[
+				"pas",
+				"parsedLine"
+			],
+			[
+				"PATH",
+				"PATH_UPTIME"
+			],
+			[
+				"main",
+				"mainMemoryTotal"
+			],
+			[
+				"ma",
+				"mainMemoryTotal"
+			],
+			[
+				"pro",
+				"processorName"
+			],
+			[
+				"CPU",
+				"CPUModelName"
+			],
+			[
+				"cp",
+				"CPUModelName"
+			],
+			[
+				"CP",
+				"CPUModelName"
+			],
+			[
+				"model",
+				"modelName"
+			],
+			[
+				"return",
+				"returnString"
+			],
+			[
+				"retur",
+				"returnValue"
+			],
+			[
+				"up",
+				"upsecs"
+			],
+			[
+				"Buf",
+				"BUFFSIZE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myshell.c",
+			"settings":
+			{
+				"buffer_size": 20619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myshell.h",
+			"settings":
+			{
+				"buffer_size": 3338,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myjobs.c",
+			"settings":
+			{
+				"buffer_size": 4233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myjobs.h",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 11123,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jason/Desktop/cmpt_300/a1p2"
+	],
+	"file_history":
+	[
+		"/Users/Jason/Desktop/cmpt_300/a1p2/README.md",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/testfile",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/textfile",
+		"/Users/Jason/Desktop/cmpt_300/BD-shell/src/utils.h",
+		"/Users/Jason/Desktop/cmpt_300/BD-shell/src/bdsh.c",
+		"/Users/Jason/Desktop/cmpt_300/BD-shell/src/headers.h",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/myShell.h",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/myShell.c",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/myShellJobs.h",
+		"/Users/Jason/Desktop/cmpt_300/simple-c-shell.c",
+		"/Users/Jason/Downloads/simple-c-shell-master/simple-c-shell.c",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/Makefile",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/my_shell.c",
+		"/Users/Jason/Desktop/cmpt_300/a1p2/lsh.c",
+		"/Users/Jason/Desktop/d3stryr-3stripes.php",
+		"/Users/Jason/Desktop/d3stryr-3stripes-atc-cs.php",
+		"/Users/Jason/Downloads/font-awesome-4.6.3/fonts/fontawesome-webfont.svg",
+		"/Users/Jason/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Jason/Desktop/cmpt_300/a1p2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jobspre",
+			"jobsprevious",
+			"insert",
+			"myjobs_insert",
+			"error",
+			"malloc",
+			"exit",
+			"myshell_foreground",
+			"myshell_execute",
+			"WUNTRACED",
+			"myjobs_getnum",
+			"fdP[0]",
+			"fdP[1]",
+			"currentdirectory",
+			"myshellPID",
+			"myshellPGID",
+			"myshellPID",
+			"termios",
+			"    // tcgetattr (myshellterminal, &myshelltmodes);",
+			"myshelltmodes",
+			"//",
+			"?",
+			"getnum",
+			"jobs",
+			"numjobs",
+			"error",
+			"getnum",
+			"numjob",
+			"]+",
+			"+",
+			"tempjob",
+			"newjob",
+			"myjobs_remove",
+			"jobstatus",
+			"jobstatusname",
+			"jobstatus",
+			"status",
+			"WAITIN",
+			"WAITING",
+			"*/\n",
+			"myshell_background",
+			"myjobs_getnum",
+			"NULL",
+			";\n",
+			"jobNumber",
+			"backgroundProcess",
+			"continueJob",
+			"putJob",
+			"t",
+			"pipingIteration",
+			"numberOfCommands",
+			"arguementsIndex",
+			"pipingBuffer",
+			"arguementsToken",
+			"readbuffer",
+			"readBuffer",
+			"bufferSize",
+			"i",
+			"bufferIndex",
+			"myShellPID",
+			"myShellPGID",
+			"myShellTerminal",
+			"childJob",
+			"myjobs_getnum",
+			"jobslist",
+			"myjobs_retrieve",
+			"numjob",
+			"signalhandler_suspend",
+			"numjobs",
+			"numberofj",
+			"numberof",
+			"tempJob",
+			"myShellTerminal",
+			"numberOfJobs",
+			"number",
+			"jobsList",
+			"WAITING_INPUT",
+			"status",
+			"putJobBackground",
+			"change",
+			"shellPrompt",
+			"changeJobStatus",
+			"shellPrompt",
+			"changeJobStatus",
+			"retrieveJob",
+			"del",
+			"get",
+			"name",
+			"free",
+			"name",
+			"jobsList",
+			"inputChar",
+			"jobs",
+			"foregroun",
+			"printjobs",
+			"jobs",
+			"Foreground",
+			"act_child",
+			"GBSH_IS_INTERACTIVE",
+			"myShellPiping",
+			"myShellExecute",
+			"fork",
+			"%",
+			"sig",
+			"total",
+			"getpid",
+			"fileIO",
+			"BDSH_IS_INTERACTIVE",
+			"executeCommand",
+			"no_reprint_prmpt",
+			"signalHandler_int",
+			"no_reprint_prmpt",
+			"background",
+			"current",
+			"currentDir",
+			"getcwd",
+			"current",
+			"getcwd",
+			"currentDirectory",
+			"background",
+			"lsh_num_builtins",
+			"stdout",
+			"print",
+			"parsedToken",
+			"bufferIndex",
+			"readBuffer",
+			"bufferSize",
+			"bufferIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"backgroundprocess",
+			"continuejob",
+			"putjob",
+			"pipingindex",
+			"numcommands",
+			"arguementsindex",
+			"pipingbuffer",
+			"readbuffer",
+			"buffersize",
+			"bufferindex",
+			"myshellPID",
+			"myshellPGID",
+			"myshellterminal",
+			"childjob",
+			"jobslist",
+			"WAITING"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/Jason/Desktop/cmpt_300/a1p2"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myshell.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19581,
+								19581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9632.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myshell.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1881,
+								1881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myjobs.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2756,
+								2756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "myjobs.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
