@@ -1,5 +1,5 @@
 
-# CMPT 300 - Creating a shell that runs in a Linux shell... (shellception)
+# Creating a shell that runs in a Linux shell... (shellception)
 
 #### Ref:
 - http://cmpt-300.sfucloud.ca/cmpt-300/wp-content/uploads/2016/09/A1P2.pdf
