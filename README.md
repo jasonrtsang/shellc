@@ -1,11 +1,11 @@
 
 # CMPT 300 - Creating a shell that runs in a Linux shell... (shellception)
 
-####Ref:
+#### Ref:
 - http://cmpt-300.sfucloud.ca/cmpt-300/wp-content/uploads/2016/09/A1P2.pdf
 - https://www.gnu.org/software/libc/manual/html_node
 
-Notes:
+#### Notes:
 - Internal commands reference the behaviour of the Ubuntu Terminal
 - Jobs internal command is implemented without JOBSPEC
 - bg and fg will return the most recent backgrounded process, else use job number to retrieve desired
@@ -15,7 +15,7 @@ Source Code: myshell.c, myjobs.c | Header Files: myshell.h, myjobs.h | Executabl
 
 For a fresh compile run "make clean" followed by "make all"
 
-Testing Procedure:
+#### Testing Procedure:
 
     Testing bg and fg (with/ without arguements), jobs and the ability to kill and stop a process:
     - Load 3 sleep 100 proesses in the background. Stop, kill and let them run
@@ -176,6 +176,6 @@ Testing Procedure:
     Error: Must input command after '|' token for piping.
     my_shell > Jobs: 0 - /media/sf_cmpt_300/a1p2$ 
 
-Testing Platforms:
+#### Testing Platforms:
 - Ubuntu 16.04.2, gcc version 5.4.0
 - SFU CSIL Linux machines
